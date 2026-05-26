@@ -3,7 +3,8 @@
 def test_everything():
     """
         Even though we made three files to test our work, 
-        This function ensures an ulimate test !
+        This function ensures an ulimate test!
+        This will test all of our functions and make sure everything works corretly
         Visuals for regression and clustering also included
     """
     import time
