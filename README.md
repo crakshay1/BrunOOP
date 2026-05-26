@@ -3,6 +3,8 @@
 **Modeling and Implementing a Machine Learning Library**  
 *Object-Oriented Programming with Python — Université Paris-Saclay*
 
+###### By [@crakshay1](https://github.com/crakshay1), [@georgyzaouk](https://github.com/georgyzaouk) & [@zyrok12](https://github.com/zyrok12)
+
 -------
 ⚠️ [View our project report.](https://github.com/MachineLearning-oop/2526-m1geniomhe-group6/blob/main/docs/report.pdf)
 
